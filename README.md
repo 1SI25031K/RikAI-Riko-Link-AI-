@@ -1,4 +1,4 @@
-# RikAI apollo (RikoLink Activity Intelligence) 
+# RikAI apollo for Slack (RikoLink Activity Intelligence) 
 
 > **「活動を、価値に。」** > RikAIは、理工系学生の日常的な開発プロセスを定量化し、その「熱量」と「技術力」を正当な対価（ROI）へと変換する、RikoLink専用のインテリジェンス・エンジンです。
 
